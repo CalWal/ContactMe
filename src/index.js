@@ -5,6 +5,7 @@ import "./styles.css";
 import Picture from "./components/Picture";
 import AboutMe from "./components/AboutMe";
 import Info from "./components/Info";
+import Projects from "./components/Projects";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Picture />
       <AboutMe />
       <Info />
+      <Projects />
     </div>
   );
 }

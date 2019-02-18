@@ -53,3 +53,9 @@ a {
   color: #f63d47;
   font-weight: 600;
 }
+
+.projects span {
+  background: #f63d47;
+  color: white;
+  letter-spacing: 2px;
+}
