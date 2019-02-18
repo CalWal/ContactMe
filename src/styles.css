@@ -59,3 +59,14 @@ a {
   color: white;
   letter-spacing: 2px;
 }
+
+.projectCubes {
+  background: white;
+  border-radius: 8px;
+  line-height: 1.5em;
+  padding: 5px;
+}
+
+.projectTitle {
+  color: #f63d47;
+}
